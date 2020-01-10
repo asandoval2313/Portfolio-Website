@@ -1,0 +1,19 @@
+h1 {
+  font-size: 30px;
+  color: red;
+  font-family: "Merienda One", cursive;
+}
+
+body,
+.sky {
+  background-color: #75c9f0;
+}
+
+.sky {
+  padding-top: 80px;
+}
+
+.aboutMe {
+  background-color: #75c9f0;
+  padding-top: 30px;
+}
